@@ -1,0 +1,5 @@
+ xem mail an vao send/receive
+pass Ominext2018
+
+    public alterEgo?: string
+ truyn gi vao cung duoc khong thi rong
